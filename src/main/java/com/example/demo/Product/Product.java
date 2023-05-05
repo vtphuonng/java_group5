@@ -92,6 +92,11 @@ public class Product {
 	public void setTotal(Long total) {
 		this.total = total;
 	}
+
+	public boolean isPresent() {
+		// TODO Auto-generated method stub
+		return false;
+	}
 	
 	
 	
